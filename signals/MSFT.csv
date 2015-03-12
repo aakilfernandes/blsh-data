@@ -1,0 +1,41 @@
+id,stock_id,stock_symbol,url,published_at,created_at,updated_at
+2545,460,MSFT,http://online.wsj.com/article/PR-CO-20150312-909578.html,2015-03-12 12:50:00,2015-03-12 15:46:21,2015-03-12 15:46:21
+2546,460,MSFT,http://online.wsj.com/article/PR-CO-20150312-909387.html,2015-03-12 12:40:00,2015-03-12 15:46:22,2015-03-12 15:46:22
+2547,460,MSFT,http://online.wsj.com/article/PR-CO-20150311-914854.html,2015-03-11 18:45:00,2015-03-12 15:46:22,2015-03-12 15:46:22
+2548,460,MSFT,http://online.wsj.com/articles/BT-CO-20150311-704641,2015-03-11 12:15:00,2015-03-12 15:46:23,2015-03-12 15:46:23
+2549,460,MSFT,http://www.wsj.com/articles/cisco-microsoft-team-up-to-target-cloud-vendors-1426075202,2015-03-11 12:00:00,2015-03-12 15:46:24,2015-03-12 15:46:24
+2550,460,MSFT,http://online.wsj.com/article/PR-CO-20150310-916801.html,2015-03-11 02:44:00,2015-03-12 15:46:25,2015-03-12 15:46:25
+2551,460,MSFT,http://www.marketwatch.com/story/12-bubble-survivors-to-buy-now-2015-03-10,,2015-03-12 15:46:27,2015-03-12 15:46:27
+2552,460,MSFT,http://online.wsj.com/article/PR-CO-20150310-910293.html,2015-03-10 13:35:00,2015-03-12 15:46:28,2015-03-12 15:46:28
+2553,460,MSFT,http://blogs.wsj.com/cio/2015/03/09/microsoft-has-its-groove-back-say-some-cios/,,2015-03-12 15:46:29,2015-03-12 15:46:29
+2554,460,MSFT,http://online.barrons.com/article/SB52018153252431963983004580507444140052622.html,2015-03-09 04:01:00,2015-03-12 15:46:30,2015-03-12 15:46:30
+2555,460,MSFT,http://blogs.wsj.com/cio/2015/03/06/bank-of-americas-data-initiative-bears-stamp-of-facebook-open-compute-project/,,2015-03-12 15:46:31,2015-03-12 15:46:31
+2556,460,MSFT,http://www.marketwatch.com/story/warren-buffetts-berkshire-passes-exxon-mobil-in-market-cap-rankings-2015-03-06,,2015-03-12 15:46:35,2015-03-12 15:46:35
+2557,460,MSFT,http://blogs.wsj.com/digits/2015/03/06/apple-helps-but-tech-arguably-still-underrepresented-in-dow/,,2015-03-12 15:46:36,2015-03-12 15:46:36
+2558,460,MSFT,http://blogs.wsj.com/moneybeat/2015/03/06/how-will-apple-perform-in-the-dow-clues-from-some-recent-additions/,,2015-03-12 15:46:38,2015-03-12 15:46:38
+2559,460,MSFT,http://blogs.wsj.com/personal-technology/2015/03/05/microsoft-office-2016-for-mac-is-available-for-free-right-now/,,2015-03-12 15:46:40,2015-03-12 15:46:40
+2560,460,MSFT,http://www.wsj.com/articles/gamestop-raises-annual-dividend-by-9-1425426332,2015-03-03 23:45:00,2015-03-12 15:46:40,2015-03-12 15:46:40
+2561,460,MSFT,http://www.marketwatch.com/story/apple-outsells-samsung-in-smartphone-sales-for-first-time-since-2011-2015-03-03,,2015-03-12 15:46:42,2015-03-12 15:46:42
+2562,460,MSFT,http://blogs.wsj.com/cio/2015/03/02/new-ubuntu-phone-separates-the-app-from-the-data/,,2015-03-12 15:46:43,2015-03-12 15:46:43
+2563,460,MSFT,http://www.wsj.com/articles/microsoft-plays-waiting-game-in-smartphone-race-1425313036,2015-03-02 19:58:00,2015-03-12 15:46:43,2015-03-12 15:46:43
+2564,460,MSFT,http://blogs.wsj.com/digits/2015/03/02/microsoft-plots-next-step-in-mobile-os-push-mobile-world/,,2015-03-12 15:46:45,2015-03-12 15:46:45
+2565,460,MSFT,http://online.wsj.com/article/PR-CO-20150302-902259.html,2015-03-02 08:40:00,2015-03-12 15:46:45,2015-03-12 15:46:45
+2566,460,MSFT,http://online.wsj.com/article/PR-CO-20150302-901874.html,2015-03-02 08:05:00,2015-03-12 15:46:46,2015-03-12 15:46:46
+2567,460,MSFT,http://online.wsj.com/article/PR-CO-20150302-901893.html,,2015-03-12 15:46:51,2015-03-12 15:46:51
+2568,460,MSFT,http://online.barrons.com/article/SB51367578116875004693704580494140743840352.html,2015-03-02 05:01:00,2015-03-12 15:46:51,2015-03-12 15:46:51
+2569,460,MSFT,http://www.wsj.com/articles/htc-enters-virtual-reality-market-in-bid-to-diversify-product-line-mobile-world-1425224702,2015-03-01 15:45:00,2015-03-12 15:46:52,2015-03-12 15:46:52
+2570,460,MSFT,http://online.barrons.com/article/SB51367578116875004693704580479943235364692.html,2015-02-28 02:32:00,2015-03-12 15:46:53,2015-03-12 15:46:53
+2571,460,MSFT,http://www.wsj.com/articles/obama-aides-break-tradition-in-career-path-after-white-house-service-1425065544,2015-02-27 19:32:00,2015-03-12 15:46:53,2015-03-12 15:46:53
+2572,460,MSFT,http://blogs.wsj.com/digits/2015/02/27/coming-to-a-console-near-you-free-to-play-games/,,2015-03-12 15:46:55,2015-03-12 15:46:55
+2573,460,MSFT,http://online.wsj.com/article/PR-CO-20150218-905061.html,2015-02-18 23:06:00,2015-03-12 15:46:55,2015-03-12 15:46:55
+2574,460,MSFT,http://online.wsj.com/article/PR-CO-20150217-909563.html,2015-02-18 21:52:00,2015-03-12 15:46:56,2015-03-12 15:46:56
+2575,460,MSFT,http://online.wsj.com/article/PR-CO-20150210-911320.html,2015-02-10 14:25:00,2015-03-12 15:46:57,2015-03-12 15:46:57
+2576,460,MSFT,http://online.wsj.com/article/PR-CO-20150209-912821.html,2015-02-10 00:31:00,2015-03-12 15:46:58,2015-03-12 15:46:58
+2577,460,MSFT,http://online.wsj.com/article/PR-CO-20150202-906959.html,2015-02-02 14:05:00,2015-03-12 15:46:59,2015-03-12 15:46:59
+2578,460,MSFT,http://online.wsj.com/article/PR-CO-20150128-913379.html,2015-01-28 15:05:00,2015-03-12 15:46:59,2015-03-12 15:46:59
+2579,460,MSFT,http://online.wsj.com/article/PR-CO-20150127-909537.html,2015-01-27 13:05:00,2015-03-12 15:47:00,2015-03-12 15:47:00
+2580,460,MSFT,http://online.wsj.com/article/PR-CO-20150126-911114.html,2015-01-26 21:17:00,2015-03-12 15:47:00,2015-03-12 15:47:00
+2581,460,MSFT,http://online.wsj.com/article/PR-CO-20150126-906797.html,2015-01-26 14:36:00,2015-03-12 15:47:02,2015-03-12 15:47:02
+2582,460,MSFT,http://online.wsj.com/article/PR-CO-20150124-925414.html,2015-01-24 20:09:00,2015-03-12 15:47:02,2015-03-12 15:47:02
+2583,460,MSFT,http://online.wsj.com/article/PR-CO-20150121-914452.html,2015-01-21 19:30:00,2015-03-12 15:47:03,2015-03-12 15:47:03
+2584,460,MSFT,http://online.wsj.com/article/PR-CO-20150119-901805.html,2015-01-19 10:05:00,2015-03-12 15:47:04,2015-03-12 15:47:04

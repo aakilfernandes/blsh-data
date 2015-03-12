@@ -1,0 +1,41 @@
+id,stock_id,stock_symbol,url,published_at,created_at,updated_at
+672,409,C,http://www.wsj.com/articles/citigroup-ceo-stress-test-efforts-are-far-from-over-1426166620,2015-03-12 13:23:00,2015-03-12 15:14:41,2015-03-12 15:14:41
+673,409,C,http://www.marketwatch.com/story/ignore-the-dollar-and-embrace-the-next-dip-2015-03-12,,2015-03-12 15:14:44,2015-03-12 15:14:44
+674,409,C,http://www.wsj.com/articles/spain-takes-over-local-unit-of-andorran-bank-suspected-of-money-laundering-1426062053,2015-03-11 23:20:00,2015-03-12 15:14:45,2015-03-12 15:14:45
+675,409,C,http://www.wsj.com/articles/citi-dividend-light-turns-green-heard-on-the-street-1426113549,2015-03-11 22:39:00,2015-03-12 15:14:45,2015-03-12 15:14:45
+676,409,C,http://www.marketwatch.com/story/federal-reserve-rejects-2-banks-capital-plans-in-stress-tests-2015-03-11,,2015-03-12 15:14:47,2015-03-12 15:14:47
+677,409,C,http://www.wsj.com/articles/federal-reserve-approves-citigroups-capital-plan-1426105882,2015-03-11 21:28:00,2015-03-12 15:14:48,2015-03-12 15:14:48
+678,409,C,http://online.wsj.com/article/PR-CO-20150311-915830.html,2015-03-11 21:05:00,2015-03-12 15:14:49,2015-03-12 15:14:49
+679,409,C,http://www.marketwatch.com/story/huge-day-for-banks-as-fed-to-say-which-can-lift-buybacks-and-dividends-2015-03-11,,2015-03-12 15:14:51,2015-03-12 15:14:51
+680,409,C,http://online.wsj.com/article/PR-CO-20150310-915271.html,2015-03-10 18:48:00,2015-03-12 15:14:52,2015-03-12 15:14:52
+681,409,C,http://online.wsj.com/article/PR-CO-20150310-911772.html,2015-03-10 14:50:00,2015-03-12 15:14:52,2015-03-12 15:14:52
+682,409,C,http://www.wsj.com/articles/citi-treasurer-joins-citizens-financial-1425952308,2015-03-10 01:51:00,2015-03-12 15:14:53,2015-03-12 15:14:53
+683,409,C,http://online.wsj.com/articles/BT-CO-20150309-712403,2015-03-09 22:42:00,2015-03-12 15:14:54,2015-03-12 15:14:54
+684,409,C,http://www.wsj.com/articles/fed-broadens-scope-of-stress-tests-1425940072,2015-03-09 22:27:00,2015-03-12 15:14:55,2015-03-12 15:14:55
+685,409,C,http://blogs.wsj.com/moneybeat/2015/03/09/citigroup-treasurer-tapped-for-cfo-job-at-citizens-financial/,,2015-03-12 15:14:56,2015-03-12 15:14:56
+686,409,C,http://www.wsj.com/articles/citizens-financial-taps-citigroup-veteran-as-finance-chief-1425907897,2015-03-09 13:31:00,2015-03-12 15:14:57,2015-03-12 15:14:57
+687,409,C,http://www.wsj.com/articles/dont-put-too-much-stress-on-the-feds-first-bank-test-heard-on-the-street-1425854013,2015-03-08 22:33:00,2015-03-12 15:14:58,2015-03-12 15:14:58
+688,409,C,http://online.barrons.com/article/SB51367578116875004693704580502703510707706.html,2015-03-07 05:01:00,2015-03-12 15:14:59,2015-03-12 15:14:59
+689,409,C,http://online.barrons.com/article/SB51367578116875004693704580494042697558992.html,2015-03-07 04:24:00,2015-03-12 15:15:00,2015-03-12 15:15:00
+690,409,C,http://online.barrons.com/article/SB51367578116875004693704580494073319087014.html,2015-03-07 03:44:00,2015-03-12 15:15:02,2015-03-12 15:15:02
+691,409,C,http://www.wsj.com/articles/its-different-this-time-with-citis-green-investments-letters-to-the-editor-1425675236,2015-03-06 20:53:00,2015-03-12 15:15:03,2015-03-12 15:15:03
+692,409,C,http://online.wsj.com/article/PR-CO-20150306-916138.html,2015-03-06 20:39:00,2015-03-12 15:15:04,2015-03-12 15:15:04
+693,409,C,http://online.wsj.com/article/PR-CO-20150306-916133.html,2015-03-06 20:38:00,2015-03-12 15:15:04,2015-03-12 15:15:04
+694,409,C,http://blogs.wsj.com/moneybeat/2015/03/06/how-will-apple-perform-in-the-dow-clues-from-some-recent-additions/,,2015-03-12 15:15:05,2015-03-12 15:15:05
+695,409,C,http://www.marketwatch.com/story/banks-may-be-stress-free-but-are-they-safe-2015-03-06,,2015-03-12 15:15:08,2015-03-12 15:15:08
+696,409,C,http://online.wsj.com/articles/BT-CO-20150305-712834,2015-03-05 22:35:00,2015-03-12 15:15:08,2015-03-12 15:15:08
+697,409,C,http://online.wsj.com/article/PR-CO-20150305-918932.html,2015-03-05 22:00:00,2015-03-12 15:15:09,2015-03-12 15:15:09
+698,409,C,http://online.wsj.com/article/PR-CO-20150305-908642.html,2015-03-05 11:59:00,2015-03-12 15:15:10,2015-03-12 15:15:10
+699,409,C,http://online.wsj.com/article/PR-CO-20150305-900144.html,2015-03-05 06:05:00,2015-03-12 15:15:10,2015-03-12 15:15:10
+700,409,C,http://online.wsj.com/article/PR-CO-20150304-908508.html,2015-03-04 13:05:00,2015-03-12 15:15:11,2015-03-12 15:15:11
+701,409,C,http://online.wsj.com/article/PR-CO-20150303-912798.html,2015-03-03 15:35:00,2015-03-12 15:15:12,2015-03-12 15:15:12
+702,409,C,http://online.wsj.com/article/PR-CO-20150303-906287.html,2015-03-03 11:35:00,2015-03-12 15:15:13,2015-03-12 15:15:13
+703,409,C,http://online.wsj.com/article/PR-CO-20150303-906290.html,2015-03-03 11:35:00,2015-03-12 15:15:14,2015-03-12 15:15:14
+704,409,C,http://online.wsj.com/article/PR-CO-20150302-913810.html,2015-03-02 21:20:00,2015-03-12 15:15:14,2015-03-12 15:15:14
+705,409,C,http://online.wsj.com/article/PR-CO-20150302-906708.html,2015-03-02 13:05:00,2015-03-12 15:15:16,2015-03-12 15:15:16
+706,409,C,http://online.wsj.com/article/PR-CO-20150224-917397.html,2015-02-24 21:35:00,2015-03-12 15:15:16,2015-03-12 15:15:16
+707,409,C,http://online.wsj.com/article/PR-CO-20150224-917217.html,2015-02-24 21:20:00,2015-03-12 15:15:17,2015-03-12 15:15:17
+708,409,C,http://online.wsj.com/article/PR-CO-20150224-911087.html,2015-02-24 15:05:00,2015-03-12 15:15:18,2015-03-12 15:15:18
+709,409,C,http://online.wsj.com/article/PR-CO-20150223-912595.html,2015-02-24 00:27:00,2015-03-12 15:15:19,2015-03-12 15:15:19
+710,409,C,http://online.wsj.com/article/PR-CO-20150223-910112.html,2015-02-23 17:05:00,2015-03-12 15:15:20,2015-03-12 15:15:20
+711,409,C,http://online.wsj.com/article/PR-CO-20150223-901831.html,2015-02-23 09:11:00,2015-03-12 15:15:20,2015-03-12 15:15:20

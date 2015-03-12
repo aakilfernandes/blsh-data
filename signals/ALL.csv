@@ -1,0 +1,37 @@
+id,stock_id,stock_symbol,url,published_at,created_at,updated_at
+194,396,ALL,http://online.wsj.com/article/PR-CO-20150310-906725.html,2015-03-10 11:05:00,2015-03-12 15:06:58,2015-03-12 15:06:58
+195,396,ALL,http://online.wsj.com/article/PR-CO-20150309-904557.html,2015-03-09 12:05:00,2015-03-12 15:06:59,2015-03-12 15:06:59
+196,396,ALL,http://online.wsj.com/article/PR-CO-20150309-902288.html,2015-03-09 09:50:00,2015-03-12 15:07:01,2015-03-12 15:07:01
+197,396,ALL,http://online.wsj.com/article/PR-CO-20150306-909038.html,2015-03-06 14:15:00,2015-03-12 15:07:02,2015-03-12 15:07:02
+198,396,ALL,http://blogs.wsj.com/riskandcompliance/2015/03/02/the-morning-risk-report-hot-market-for-risk-management-skills/,,2015-03-12 15:07:04,2015-03-12 15:07:04
+199,396,ALL,http://online.wsj.com/article/PR-CO-20150225-916033.html,2015-02-25 16:45:00,2015-03-12 15:07:05,2015-03-12 15:07:05
+200,396,ALL,http://online.wsj.com/article/PR-CO-20150225-913171.html,2015-02-25 15:05:00,2015-03-12 15:07:06,2015-03-12 15:07:06
+201,396,ALL,http://online.wsj.com/article/PR-CO-20150224-913547.html,2015-02-24 16:05:00,2015-03-12 15:07:06,2015-03-12 15:07:06
+202,396,ALL,http://online.wsj.com/article/PR-CO-20150223-910461.html,2015-02-23 17:57:00,2015-03-12 15:07:07,2015-03-12 15:07:07
+203,396,ALL,http://online.wsj.com/article/PR-CO-20150219-913652.html,2015-02-19 15:20:00,2015-03-12 15:07:08,2015-03-12 15:07:08
+204,396,ALL,http://online.wsj.com/article/PR-CO-20150210-910893.html,2015-02-10 14:05:00,2015-03-12 15:07:09,2015-03-12 15:07:09
+205,396,ALL,http://blogs.wsj.com/cio/2015/02/06/data-breaches-spark-debates-on-ciso-cio-dynamic/,,2015-03-12 15:07:10,2015-03-12 15:07:10
+206,396,ALL,http://online.wsj.com/article/PR-CO-20150205-921876.html,2015-02-05 20:07:00,2015-03-12 15:07:11,2015-03-12 15:07:11
+207,396,ALL,http://online.wsj.com/articles/prudential-allstate-post-higher-than-expected-revenue-1423085066,2015-02-04 22:37:00,2015-03-12 15:07:12,2015-03-12 15:07:12
+208,396,ALL,http://online.wsj.com/article/PR-CO-20150204-918771.html,2015-02-04 21:11:00,2015-03-12 15:07:13,2015-03-12 15:07:13
+209,396,ALL,http://online.barrons.com/articles/100-000-per-second-1422689281,2015-01-31 07:28:00,2015-03-12 15:07:14,2015-03-12 15:07:14
+210,396,ALL,http://online.wsj.com/article/PR-CO-20150128-914538.html,2015-01-28 15:58:00,2015-03-12 15:07:15,2015-03-12 15:07:15
+211,396,ALL,http://blogs.wsj.com/cmo/2015/01/26/after-post-game-success-last-year-esurance-joins-ranks-of-super-bowl-advertisers/,,2015-03-12 15:07:16,2015-03-12 15:07:16
+212,396,ALL,http://blogs.wsj.com/cio/2015/01/16/allstate-courts-third-party-developers-for-driver-monitoring-mobile-platform/,,2015-03-12 15:07:17,2015-03-12 15:07:17
+213,396,ALL,http://online.wsj.com/article/PR-CO-20150114-908786.html,2015-01-14 15:17:00,2015-03-12 15:07:17,2015-03-12 15:07:17
+214,396,ALL,http://online.wsj.com/article/PR-CO-20150106-910382.html,2015-01-06 17:45:00,2015-03-12 15:07:18,2015-03-12 15:07:18
+215,396,ALL,http://online.barrons.com/articles/two-top-insurance-picks-for-2015-1419956007,2014-12-30 05:01:00,2015-03-12 15:07:19,2015-03-12 15:07:19
+216,396,ALL,http://online.barrons.com/articles/insurers-seen-keeping-dividend-yield-near-2-1419264971,2014-12-22 05:01:00,2015-03-12 15:07:19,2015-03-12 15:07:19
+217,396,ALL,http://online.wsj.com/articles/BT-CO-20141217-706124,2014-12-17 15:16:00,2015-03-12 15:07:20,2015-03-12 15:07:20
+218,396,ALL,http://online.wsj.com/article/PR-CO-20141217-906639.html,2014-12-17 14:20:00,2015-03-12 15:07:21,2015-03-12 15:07:21
+219,396,ALL,http://online.wsj.com/articles/BT-CO-20141209-706778,,2015-03-12 15:07:21,2015-03-12 15:07:21
+220,396,ALL,http://online.barrons.com/articles/jpmorgan-starts-coverage-of-insurers-1418155217,2014-12-09 05:01:00,2015-03-12 15:07:22,2015-03-12 15:07:22
+221,396,ALL,http://online.wsj.com/articles/allstate-to-study-how-drones-could-help-claims-process-1417630363,2014-12-03 18:12:00,2015-03-12 15:07:22,2015-03-12 15:07:22
+222,396,ALL,http://www.marketwatch.com/story/116-sp-500-stocks-just-hit-record-highs-2014-11-25,,2015-03-12 15:07:25,2015-03-12 15:07:25
+223,396,ALL,http://online.wsj.com/articles/allstate-operating-profit-falls-16-amid-higher-catastrophe-losses-1414617875,2014-10-29 21:24:00,2015-03-12 15:07:26,2015-03-12 15:07:26
+224,396,ALL,http://online.barrons.com/articles/ghost-in-the-machine-1414211623,2014-10-25 04:01:00,2015-03-12 15:07:28,2015-03-12 15:07:28
+225,396,ALL,http://www.marketwatch.com/story/10-sp-500-earnings-winners-whose-shares-have-risen-up-to-73-2014-10-01,,2015-03-12 15:07:31,2015-03-12 15:07:31
+226,396,ALL,http://blogs.wsj.com/cmo/2014/09/30/allstate-moving-tv-dollars-to-digital/,,2015-03-12 15:07:32,2015-03-12 15:07:32
+227,396,ALL,http://online.barrons.com/article/SB52133021052493823286804580155913602112370.html,2014-09-15 04:01:00,2015-03-12 15:07:33,2015-03-12 15:07:33
+228,396,ALL,http://online.barrons.com/article/SB51005578970899454132304580148200937636926.html,2014-09-13 04:01:00,2015-03-12 15:07:34,2015-03-12 15:07:34
+229,396,ALL,http://online.barrons.com/article/SB51005578970899454132304580148200937636926.html,2014-09-13 04:01:00,2015-03-12 15:07:34,2015-03-12 15:07:34

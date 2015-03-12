@@ -1,0 +1,41 @@
+id,stock_id,stock_symbol,url,published_at,created_at,updated_at
+605,407,BMY,http://online.wsj.com/article/PR-CO-20150309-906685.html,2015-03-09 14:35:00,2015-03-12 15:13:26,2015-03-12 15:13:26
+606,407,BMY,http://online.wsj.com/articles/BT-CO-20150306-710968,2015-03-06 22:33:00,2015-03-12 15:13:27,2015-03-12 15:13:27
+607,407,BMY,http://online.wsj.com/articles/BT-CO-20150305-707020,2015-03-05 14:35:00,2015-03-12 15:13:28,2015-03-12 15:13:28
+608,407,BMY,http://blogs.wsj.com/pharmalot/2015/03/05/pharmalot-pharmalittle-were-reading-about-abbvie-bristol-myers-and-much-more/,,2015-03-12 15:13:29,2015-03-12 15:13:29
+609,407,BMY,http://www.wsj.com/articles/fda-approves-bristol-myers-squibbs-opdivo-for-lung-cancer-1425495157,2015-03-04 22:57:00,2015-03-12 15:13:30,2015-03-12 15:13:30
+610,407,BMY,http://online.wsj.com/article/PR-CO-20150304-916801.html,2015-03-04 21:18:00,2015-03-12 15:13:31,2015-03-12 15:13:31
+611,407,BMY,http://online.wsj.com/article/PR-CO-20150304-916069.html,2015-03-04 19:26:00,2015-03-12 15:13:31,2015-03-12 15:13:31
+612,407,BMY,http://www.wsj.com/articles/bristol-myers-bavarian-nordic-ink-prostate-cancer-deal-1425469392,2015-03-04 11:43:00,2015-03-12 15:13:32,2015-03-12 15:13:32
+613,407,BMY,http://online.wsj.com/article/PR-CO-20150304-900163.html,2015-03-04 06:35:00,2015-03-12 15:13:34,2015-03-12 15:13:34
+614,407,BMY,http://blogs.wsj.com/moneybeat/2015/03/03/pharming-for-yield/,,2015-03-12 15:13:35,2015-03-12 15:13:35
+615,407,BMY,http://online.wsj.com/article/PR-CO-20150303-905861.html,2015-03-03 11:04:00,2015-03-12 15:13:36,2015-03-12 15:13:36
+616,407,BMY,http://online.wsj.com/article/PR-CO-20150302-913996.html,2015-03-02 21:35:00,2015-03-12 15:13:37,2015-03-12 15:13:37
+617,407,BMY,http://online.wsj.com/article/PR-CO-20150302-908616.html,2015-03-02 14:30:00,2015-03-12 15:13:38,2015-03-12 15:13:38
+618,407,BMY,http://www.wsj.com/articles/biotech-sector-addicted-to-m-a-drug-heard-on-the-street-1425063974,2015-02-27 19:06:00,2015-03-12 15:13:39,2015-03-12 15:13:39
+619,407,BMY,http://online.wsj.com/article/PR-CO-20150227-917529.html,2015-02-27 18:39:00,2015-03-12 15:13:40,2015-03-12 15:13:40
+620,407,BMY,http://online.wsj.com/article/PR-CO-20150226-920817.html,2015-02-26 20:20:00,2015-03-12 15:13:40,2015-03-12 15:13:40
+621,407,BMY,http://online.wsj.com/article/PR-CO-20150226-913680.html,2015-02-26 13:35:00,2015-03-12 15:13:41,2015-03-12 15:13:41
+622,407,BMY,http://online.wsj.com/article/PR-CO-20150225-911143.html,2015-02-25 13:35:00,2015-03-12 15:13:42,2015-03-12 15:13:42
+623,407,BMY,http://online.wsj.com/article/PR-CO-20150224-911044.html,2015-02-24 15:05:00,2015-03-12 15:13:43,2015-03-12 15:13:43
+624,407,BMY,http://online.wsj.com/article/PR-CO-20150224-910775.html,2015-02-24 14:47:00,2015-03-12 15:13:44,2015-03-12 15:13:44
+625,407,BMY,http://online.wsj.com/article/PR-CO-20150223-908752.html,2015-02-23 15:35:00,2015-03-12 15:13:44,2015-03-12 15:13:44
+626,407,BMY,http://online.wsj.com/articles/BT-CO-20150223-705544,2015-02-23 14:40:00,2015-03-12 15:13:45,2015-03-12 15:13:45
+627,407,BMY,http://online.wsj.com/article/PR-CO-20150223-907525.html,2015-02-23 14:36:00,2015-03-12 15:13:46,2015-03-12 15:13:46
+628,407,BMY,http://www.wsj.com/articles/bristol-myers-to-acquire-flexus-immunotherapy-pipeline-1424699146,2015-02-23 13:45:00,2015-03-12 15:13:47,2015-03-12 15:13:47
+629,407,BMY,http://online.wsj.com/article/PR-CO-20150223-906107.html,2015-02-23 13:08:00,2015-03-12 15:13:47,2015-03-12 15:13:47
+630,407,BMY,http://online.wsj.com/article/PR-CO-20150223-905926.html,2015-02-23 13:05:00,2015-03-12 15:13:48,2015-03-12 15:13:48
+631,407,BMY,http://online.wsj.com/article/PR-CO-20150223-905925.html,2015-02-23 13:05:00,2015-03-12 15:13:49,2015-03-12 15:13:49
+632,407,BMY,http://www.wsj.com/articles/new-cancer-technology-gives-investors-a-shot-in-the-arm-1424631798,2015-02-22 19:03:00,2015-03-12 15:13:49,2015-03-12 15:13:49
+633,407,BMY,http://online.barrons.com/article/SB51367578116875004693704580446224190645804.html,2015-02-09 05:01:00,2015-03-12 15:13:50,2015-03-12 15:13:50
+634,407,BMY,http://online.barrons.com/article/SB51367578116875004693704580437782429687348.html,2015-02-07 05:01:00,2015-03-12 15:13:52,2015-03-12 15:13:52
+635,407,BMY,http://online.wsj.com/article/PR-CO-20150205-915484.html,2015-02-05 14:35:00,2015-03-12 15:13:52,2015-03-12 15:13:52
+636,407,BMY,http://blogs.wsj.com/cfo/2015/02/03/longer-lives-cut-premium-to-offload-pensions/,,2015-03-12 15:13:53,2015-03-12 15:13:53
+637,407,BMY,http://online.wsj.com/articles/the-big-number-1422927343,2015-02-03 01:35:00,2015-03-12 15:13:55,2015-03-12 15:13:55
+638,407,BMY,http://online.wsj.com/article/PR-CO-20150130-911648.html,2015-01-30 13:50:00,2015-03-12 15:13:56,2015-03-12 15:13:56
+639,407,BMY,http://www.marketwatch.com/story/us-stocks-futures-fall-as-caterpillar-3m-durable-goods-line-up-2015-01-27,,2015-03-12 15:13:59,2015-03-12 15:13:59
+640,407,BMY,http://online.wsj.com/articles/cancer-drugs-boost-bristol-myers-sales-1422361872,2015-01-27 18:48:00,2015-03-12 15:14:00,2015-03-12 15:14:00
+641,407,BMY,http://blogs.wsj.com/pharmalot/2015/01/23/up-and-down-the-ladder-the-latest-comings-and-goings-at-myriad-pfizer-and/,,2015-03-12 15:14:01,2015-03-12 15:14:01
+642,407,BMY,http://blogs.wsj.com/pharmalot/2015/01/21/pharmalot-pharmalittle-were-reading-about-bristol-myers-actavis-and-much-more/,,2015-03-12 15:14:02,2015-03-12 15:14:02
+643,407,BMY,http://online.wsj.com/articles/bristol-myers-operating-chief-to-become-ceo-in-may-1421790782,2015-01-20 23:17:00,2015-03-12 15:14:04,2015-03-12 15:14:04
+644,407,BMY,http://online.wsj.com/articles/BT-CO-20150113-705081,2015-01-13 14:38:00,2015-03-12 15:14:05,2015-03-12 15:14:05

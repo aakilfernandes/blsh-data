@@ -1,0 +1,38 @@
+id,stock_id,stock_symbol,url,published_at,created_at,updated_at
+374,401,AXP,http://online.wsj.com/article/PR-CO-20150311-915742.html,2015-03-11 20:52:00,2015-03-12 15:09:53,2015-03-12 15:09:53
+375,401,AXP,http://online.wsj.com/article/PR-CO-20150304-914359.html,2015-03-04 16:35:00,2015-03-12 15:09:54,2015-03-12 15:09:54
+376,401,AXP,http://online.wsj.com/article/PR-CO-20150304-911297.html,2015-03-04 15:05:00,2015-03-12 15:09:54,2015-03-12 15:09:54
+377,401,AXP,http://online.barrons.com/article/SB51367578116875004693704580495983255923218.html,2015-03-03 05:01:00,2015-03-12 15:09:55,2015-03-12 15:09:55
+378,401,AXP,http://www.wsj.com/articles/costco-names-citi-visa-as-credit-partners-1425302174,2015-03-03 01:42:00,2015-03-12 15:09:56,2015-03-12 15:09:56
+379,401,AXP,http://blogs.wsj.com/totalreturn/2015/03/02/costco-to-accept-visa-credit-cards-next-year/,,2015-03-12 15:09:58,2015-03-12 15:09:58
+380,401,AXP,http://www.marketwatch.com/story/google-to-offer-wireless-service-and-more-2015-03-02-111154540,,2015-03-12 15:10:02,2015-03-12 15:10:02
+381,401,AXP,http://online.wsj.com/articles/BT-CO-20150302-706899,2015-03-02 14:16:00,2015-03-12 15:10:03,2015-03-12 15:10:03
+382,401,AXP,http://www.marketwatch.com/story/apple-poised-to-goose-gold-as-economic-numbers-start-flying-2015-03-02,,2015-03-12 15:10:06,2015-03-12 15:10:06
+383,401,AXP,http://online.wsj.com/articles/BT-CO-20150302-706049,2015-03-02 13:42:00,2015-03-12 15:10:07,2015-03-12 15:10:07
+384,401,AXP,http://online.wsj.com/article/PR-CO-20150302-907512.html,2015-03-02 13:35:00,2015-03-12 15:10:08,2015-03-12 15:10:08
+385,401,AXP,http://online.wsj.com/articles/BT-CO-20150302-705861,2015-03-02 13:31:00,2015-03-12 15:10:09,2015-03-12 15:10:09
+386,401,AXP,http://www.marketwatch.com/story/costco-names-citi-visa-as-credit-partners-2015-03-02-81032148,,2015-03-12 15:10:11,2015-03-12 15:10:11
+387,401,AXP,http://blogs.wsj.com/cfo/2015/03/02/crib-sheet-for-cfos-on-buffetts-50th-annual-letter/,,2015-03-12 15:10:13,2015-03-12 15:10:13
+388,401,AXP,http://www.marketwatch.com/story/buffett-explains-his-tesco-mistake-as-he-lists-berkshires-15-biggest-holdings-2015-02-28,,2015-03-12 15:10:14,2015-03-12 15:10:14
+389,401,AXP,http://online.barrons.com/article/SB51367578116875004693704580484050222251916.html,2015-02-28 05:01:00,2015-03-12 15:10:15,2015-03-12 15:10:15
+390,401,AXP,http://online.wsj.com/articles/BT-CO-20150227-707232,2015-02-27 14:35:00,2015-03-12 15:10:16,2015-03-12 15:10:16
+391,401,AXP,http://online.wsj.com/article/PR-CO-20150226-920580.html,2015-02-26 19:40:00,2015-03-12 15:10:17,2015-03-12 15:10:17
+392,401,AXP,http://www.marketwatch.com/story/american-express-shares-rally-after-analyst-boosts-rating-price-target-2015-02-26,,2015-03-12 15:10:19,2015-03-12 15:10:19
+393,401,AXP,http://online.wsj.com/articles/BT-CO-20150226-710278,2015-02-26 15:16:00,2015-03-12 15:10:20,2015-03-12 15:10:20
+394,401,AXP,http://online.wsj.com/article/PR-CO-20150225-919178.html,2015-02-25 22:35:00,2015-03-12 15:10:20,2015-03-12 15:10:20
+395,401,AXP,http://online.wsj.com/article/PR-CO-20150224-906811.html,2015-02-24 12:05:00,2015-03-12 15:10:22,2015-03-12 15:10:22
+396,401,AXP,http://www.wsj.com/articles/with-big-data-hr-departments-too-often-get-short-shrift-1424664603,2015-02-23 04:10:00,2015-03-12 15:10:23,2015-03-12 15:10:23
+397,401,AXP,http://online.barrons.com/article/SB51367578116875004693704580467993107490742.html,2015-02-21 05:01:00,2015-03-12 15:10:24,2015-03-12 15:10:24
+398,401,AXP,http://online.wsj.com/article/PR-CO-20150220-911730.html,2015-02-20 15:40:00,2015-03-12 15:10:26,2015-03-12 15:10:26
+399,401,AXP,http://online.wsj.com/articles/BT-CO-20150220-704473,2015-02-20 14:25:00,2015-03-12 15:10:27,2015-03-12 15:10:27
+400,401,AXP,http://blogs.wsj.com/cfo/2015/02/20/the-morning-ledger-white-house-sees-workforce-as-best-bet-to-tackle-deficits/,,2015-03-12 15:10:28,2015-03-12 15:10:28
+401,401,AXP,http://www.wsj.com/articles/american-express-loses-antitrust-lawsuit-on-merchant-rules-1424360909,2015-02-20 00:00:00,2015-03-12 15:10:29,2015-03-12 15:10:29
+402,401,AXP,http://online.wsj.com/article/PR-CO-20150219-917593.html,2015-02-19 17:12:00,2015-03-12 15:10:29,2015-03-12 15:10:29
+403,401,AXP,http://online.wsj.com/article/PR-CO-20150202-907292.html,2015-02-02 14:25:00,2015-03-12 15:10:30,2015-03-12 15:10:30
+404,401,AXP,http://online.wsj.com/article/PR-CO-20150202-906165.html,2015-02-02 13:20:00,2015-03-12 15:10:30,2015-03-12 15:10:30
+405,401,AXP,http://online.wsj.com/article/PR-CO-20150121-914891.html,2015-01-21 21:08:00,2015-03-12 15:10:31,2015-03-12 15:10:31
+406,401,AXP,http://online.wsj.com/article/PR-CO-20150120-908878.html,2015-01-20 14:36:00,2015-03-12 15:10:31,2015-03-12 15:10:31
+407,401,AXP,http://online.wsj.com/article/PR-CO-20150112-905285.html,2015-01-12 14:05:00,2015-03-12 15:10:32,2015-03-12 15:10:32
+408,401,AXP,http://online.wsj.com/article/PR-CO-20150106-907996.html,2015-01-06 15:05:00,2015-03-12 15:10:32,2015-03-12 15:10:32
+409,401,AXP,http://online.wsj.com/article/PR-CO-20141215-906272.html,2014-12-15 15:35:00,2015-03-12 15:10:33,2015-03-12 15:10:33
+410,401,AXP,http://online.wsj.com/article/PR-CO-20141212-909241.html,2014-12-12 19:42:00,2015-03-12 15:10:33,2015-03-12 15:10:33
